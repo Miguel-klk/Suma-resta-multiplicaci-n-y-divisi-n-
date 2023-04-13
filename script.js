@@ -8,7 +8,7 @@ let resta = num1 - num2;
 let multiplicacion = num1 * num2;
 let division = num2 !== 0 ? num1 / num2 : "ERROR";
 
-alert("El resultado de la suma es: " + suma);
-alert("El resultado de la resta es: " + resta);
-alert("El resultado de la multiplicación es: " + multiplicacion);
-alert("El resultado de la división es: " + division);
+alert("El total de la suma es: " + suma);
+alert("La diferencia de la resta es: " + resta);
+alert("El producto de la multiplicación es: " + multiplicacion);
+alert("El reparto de la división es: " + division);
